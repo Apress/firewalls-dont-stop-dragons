@@ -8,9 +8,13 @@ This repository accompanies [*Firewalls Don't Stop Dragons*](http://www.apress.c
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
+## Errata
+
+As I find errors or stale information in the book, I will update the [errata document](errata.md). See this reference for updates. If you find an error or information that needs updating, please contact me at **feedback @ wawaseemedia.com**.
+
 ## Web Links from Book
 
-If you have the paperback version of the book, you can use this document to click on the web links. The links are in order by chapter. Futhermore, I will try to keep these links up to date (links inevitably change). If you find any errors, **please** let me know: feedback @ wawaseemedia.com. I'm also maintaining this list on my website [here](https://firewallsdontstopdragons.com/book-links-v3/).
+If you have the paperback version of the book, you can use this document to click on the web links. The links are in order by chapter. Futhermore, I will try to keep these links up to date (links inevitably change). If you find any errors, **please** let me know: **feedback @ wawaseemedia.com**. I'm also maintaining this list on my website [here](https://firewallsdontstopdragons.com/book-links-v3/).
 
 [Book Links](BookLinks_v3.md)
 
