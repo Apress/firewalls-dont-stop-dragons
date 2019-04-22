@@ -1,12 +1,16 @@
 # Errata for *Firewalls Don't Stop Dragons*
 
-## General Note
+## General Note on Web Links in the Book
 
-The book is chock full of web links and web links will change all the time. I will try to keep an updated set of links in [this document](BookLinks_v3.md).
+The book is chock full of web links and web links will change all the time. I will try to keep an updated set of links in [this document](BookLinks_v3.md) If you find any links in the book or these documents that are wrong, please let me know!
+(see also Tip 2-1 below)
 
-## Tip 2-1: Missing web site link:
+## Tip 2-1: Missing website link
  
-On page 13, I tell you to refer to Tip 2-1 for a handy web tool, but **neglected to include the link**. You can either use the local [Book Links](BookLinks_v3.md) document or you can use the version on my [website](https://firewallsdontstopdragons.com/book-links-v3/).
+On page 13, I tell you to refer to Tip 2-1 for a "handy web tool", but **neglected to include the link**. You can use one of the following documents to find all the links in the book, in order by chapter:
+
+* [Book links on this site](BookLinks_v3.md)
+* [Book links on my website](https://firewallsdontstopdragons.com/book-links-v3/)
 
 ## Tip 4-4: Enable two-factor authentication
 
