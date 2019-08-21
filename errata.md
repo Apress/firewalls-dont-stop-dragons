@@ -33,3 +33,9 @@ A poor man's solution to the problem above, but also a nice backup mechanism, is
 I can no longer recommend that you install Chrome at all (and if you already have Chrome installed, I would uninstall it). The only reason to use Google's Chrome browser in the past was for support of the nearly-dead Adobe Flash plugin. Not only has the need for this basically gone away, Google has become even worse with regard to your privacy. I would only install Firefox and ignore all other tips about Chrome unless you're *absolutely certain* you still need Adboe Flash for some website(s) that are crucial for you. 
 
 See [this blog article](https://firewallsdontstopdragons.com/its-time-switch-to-firefox/) for more info.
+
+## Chapter 11 - Don’t Be a Smartphone Dummy
+
+### Section: Privacy Matters
+
+According to a 2016 Pew poll, 28 percent of people still do not lock their smartphones with a PIN or other access control. While I hope that number has ***decreased*** since then, I don’t doubt that a majority of people still haven’t taken this most basic step to secure this treasure trove of information.
