@@ -131,7 +131,7 @@
 * https://www.apple.com/families/
 * https://www.eff.org/deeplinks/2015/11/guide-chromebook-privacy-settings-students
 * https://www.opendns.com/home-internet-security/
-* https://www.netsmartz.org/Resources/Pledges
+* https://www.netsmartz.org/Resources/Pledges (redirects to site without pledges)
 * https://www.connectsafely.org/family-contract-smartphone-use/
 * http://www.janellburleyhofmann.com/postjournal/gregorys-iphone-contract/ (updated)
 * https://www.commonsensemedia.org/
