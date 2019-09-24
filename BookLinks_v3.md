@@ -34,7 +34,7 @@
 
 # Chapter 5: Computer Security
 
-* https://www.howtoreplaceyourpc.com/ (website may be gone)
+* https://www.howtoreplaceyourpc.com/ (website no longer works)
 * https://isc.sans.edu/survivaltime.html
 * https://www.eff.org/issues/know-your-rights#5
 * https://www.us-cert.gov/ncas/alerts/TA16-187A156
