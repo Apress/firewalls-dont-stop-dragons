@@ -28,6 +28,11 @@ One bonus for LastPass Authenticator: they have a one-touch approval which means
 
 A poor man's solution to the problem above, but also a nice backup mechanism, is to actually take a screen shot of each site's QR code - the one they have you scan to set up your 2FA apps for that site. Don't save them digitally - that's a security risk. But you can print a screen shot of that web page with the QR code and file it away somewhere at your house. If you lose your phone, you can use these codes to re-setup each account on your new phone's authenticator app.
 
+## Tip 5-6: Turn On Disk Encryption
+
+Windows 10 Home *does* offer basic hard drive encryption - if you sign in with a Microsoft Account (see [this Microsoft article](https://support.microsoft.com/en-us/help/4502379/windows-10-device-encryption) for details). The fancier BitLocker option is only available on Windows 10 Pro and Enterprise editions.
+
+
 ## Tip 7-1: Install Firefox and Chrome
 
 I can no longer recommend that you install Chrome at all (and if you already have Chrome installed, I would uninstall it). The only reason to use Google's Chrome browser in the past was for support of the nearly-dead Adobe Flash plugin. Not only has the need for this basically gone away, Google has become even worse with regard to your privacy. I would only install Firefox and ignore all other tips about Chrome unless you're *absolutely certain* you still need Adboe Flash for some website(s) that are crucial for you. 
