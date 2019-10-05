@@ -44,3 +44,7 @@ See [this blog article](https://firewallsdontstopdragons.com/its-time-switch-to-
 ### Section: Privacy Matters
 
 According to a 2016 Pew poll, 28 percent of people still do not lock their smartphones with a PIN or other access control. While I hope that number has ***decreased*** since then, I don’t doubt that a majority of people still haven’t taken this most basic step to secure this treasure trove of information.
+
+## Tip 12-23: Completely and Securely Erase a Hard Drive
+
+THe "D" in DBAN is actually for Darik, not Dave.
