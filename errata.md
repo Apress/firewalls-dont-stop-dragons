@@ -22,6 +22,8 @@ Therefore, I would recommend using one of the following authenticator apps inste
 
 And be sure to setup/enable cloud backup! This should also let you sync your 2FA codes between devices (say, your iPhone and your iPad).
 
+NOTE: Any place you have a choice to use "Google Authenticator" as your authentication app will also work with Authy or LastPass Authenticator. Google Authenticator is sort of like "Kleenex" - it's a brand name for a general type of tool.
+
 One bonus for LastPass Authenticator: they have a one-touch approval which means you can skip entering the 6-digit PIN codes all the time. The downside is that you're putting both your password vault and your two-factor auth vault under one roof. I personally use Authy.
 
 ### Pro Tip: Print your two-factor QR codes
