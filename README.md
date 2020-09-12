@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Firewalls Don't Stop Dragons*](https://www.apress.com/us/book/9781484261880) by Carey Parker (Apress, 2018).
+This repository accompanies [*Firewalls Don't Stop Dragons*](https://www.apress.com/us/book/9781484261880) by Carey Parker (Apress, 2020).
 
 [comment]: #cover
 
