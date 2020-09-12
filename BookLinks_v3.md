@@ -1,3 +1,7 @@
+# Book Links for 3rd Edition
+
+![3rd ed cover image](9781484238516.jpg)
+
 # Preface
 
 * https://www.snopes.com/quotes/sutton.asp
