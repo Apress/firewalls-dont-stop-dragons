@@ -7,7 +7,7 @@ The book is chock full of web links and web links will change all the time. I wi
 
 ## Updated Information
 
-### Chapter 7, page 241L Panopticlick --> Cover Your Tracks
+### Chapter 7, page 241: Panopticlick --> Cover Your Tracks
 
 The wonderful EFF tool Panopticlick has been upgraded and renames to [Cover Your Tracks](https://coveryourtracks.eff.org/). The old Panopticlick link
 should automatically re-route you to the new site.
