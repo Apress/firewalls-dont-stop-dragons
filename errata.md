@@ -14,6 +14,10 @@ should automatically re-route you to the new site.
 
 ## Errata
 
+### Tip 4-6: Enable Two-Factor Authentication
+
+Note that Google Authenticator has finally provided a way to back up your codes. They first offered this on Android devices and now apparently have added this capability to iOS devices. I still prefer Authy, personally, but at least this major drawback has been addressed.
+
 ### Tip 4-12: Perform a Security Check in LastPass
 
 It appears that LastPass has now automated this in the [new Security Dashboard](https://blog.lastpass.com/2020/08/new-lastpass-security-dashboard-and-dark-web-monitoring-now-available/). One downside: it looks like you can't manually re-run the security check. So if you make some changes, you can't see immediately how your score has improved. I can only assume the score will be updated periodically, but not sure how often.
