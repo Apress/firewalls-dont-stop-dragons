@@ -18,6 +18,13 @@ If you have the paperback version of the book, you can use this web page list to
 
 #### [List of Web Links](https://firewallsdontstopdragons.com/book-links-v4/)
 
+## Follow Me on Social Media
+
+* [Facebook](https://www.facebook.com/Firewalls-Dont-Stop-Dragons-105005911488731)
+* [YouTube](https://www.youtube.com/channel/UC0aUElaV7hDubXSpDJkiSrA)
+* [Twitter](https://twitter.com/firewalldragons)
+* [LinkedIn](https://www.linkedin.com/in/firewall-dragons)
+
 
 ## Website and Other Resources
 
