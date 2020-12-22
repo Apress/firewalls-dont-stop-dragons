@@ -5,6 +5,10 @@
 
 The book is chock full of web links and web links will change all the time. I will try to keep an updated set of links in [this web page](https://firewallsdontstopdragons.com/book-links-v4/). If you find any links in the book or these documents that are wrong, please let me know!
 
+## A Note About Facebook
+
+I firmly believe that no one should use Facebook, which I mention several times in this book. However, as a privacy evangelist, I decided that it's necessary for me to go where the poeople are that need to know about privacy. I broke down and created a [Facebook page](https://www.facebook.com/Firewalls-Dont-Stop-Dragons-105005911488731) for this purpose. I also realize that right now, Facebook is really the only game in town and for many, many people it serves a legitimate purpose: keeping in touch with friends and family. Hopefully there will be a privacy-focused alternative we can all move to one day. Until then...
+
 ## Updated Information
 
 ### Chapter 7, page 241: Panopticlick --> Cover Your Tracks
