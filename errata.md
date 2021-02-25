@@ -18,6 +18,10 @@ should automatically re-route you to the new site.
 
 ## Errata
 
+### Tip 4-2: Getting Starting with LastPass
+
+LastPass is planning to restrict what sorts of devices you can use on its Free tier as of March 2021. I am not happy about this (and frankly still hoping they might change their minds), even though I'm a paying customer and these changes will have no effect on paying customers. I wrote [a blog article about this](https://firewallsdontstopdragons.com/lastpass-changing-its-free-tier/) that you might want to check out. The short version is that I still think LastPass is the best for most people, but if you really need a free passsword manager and you need to access it from mobile devices *and* computers, I would look at [BitWarden](https://bitwarden.com/).
+
 ### Tip 4-6: Enable Two-Factor Authentication
 
 Note that Google Authenticator has finally provided a way to back up your codes. They first offered this on Android devices and now apparently have added this capability to iOS devices. I still prefer Authy, personally, but at least this major drawback has been addressed.
