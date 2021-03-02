@@ -13,7 +13,7 @@ I firmly believe that no one should use Facebook, which I mention several times 
 
 ### Chapter 7, page 241: Panopticlick --> Cover Your Tracks
 
-The wonderful EFF tool Panopticlick has been upgraded and renames to [Cover Your Tracks](https://coveryourtracks.eff.org/). The old Panopticlick link
+The wonderful EFF tool Panopticlick has been upgraded and renamed to [Cover Your Tracks](https://coveryourtracks.eff.org/). The old Panopticlick link
 should automatically re-route you to the new site.
 
 ## Errata
