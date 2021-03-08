@@ -20,7 +20,7 @@ should automatically re-route you to the new site.
 
 ### Tip 4-2. Getting Starting with LastPass
 
-LastPass is planning to restrict what sorts of devices you can use on its Free tier as of March 2021. I am not happy about this (and frankly still hoping they might change their minds), even though I'm a paying customer and these changes will have no effect on paying customers. And then it was found that their Android app had several trackers in it. I wrote [a blog article about this](https://firewallsdontstopdragons.com/lastpass-changing-its-free-tier/) that you might want to check out. The short version is that my recommendations will likely change going forward. LastPass is still secure and has good features. But I would now recommend one of the following:
+LastPass is planning to restrict what sorts of devices you can use on its Free tier as of March 2021. I am not happy about this (and frankly still hoping they might change their minds), even though I'm a paying customer and these changes will have no effect on paying customers. And then it was found that their Android app had several trackers in it. I wrote [a blog article about this](https://firewallsdontstopdragons.com/moving-to-bitwarden/) that you might want to check out. The short version is that my recommendations will likely change going forward. LastPass is still secure and has good features. But I would now recommend one of the following:
 
 * Best free option: [BitWarden](https://bitwarden.com/) - also good if you prefer open source
 * Best for-pay option: [1Password](https://1password.com/)
