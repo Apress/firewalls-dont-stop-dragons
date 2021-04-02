@@ -33,6 +33,12 @@ Note that Google Authenticator has finally provided a way to back up your codes.
 
 It appears that LastPass has now automated this in the [new Security Dashboard](https://blog.lastpass.com/2020/08/new-lastpass-security-dashboard-and-dark-web-monitoring-now-available/). One downside: it looks like you can't manually re-run the security check. So if you make some changes, you can't see immediately how your score has improved. I can only assume the score will be updated periodically, but not sure how often.
 
+### Tip 5-8. Securely Erase Sensitive Files 
+
+Specifically for Tip 5-8b macOS, this is tricky on modern Macs with a solid state drive (SSD). Honestly, as I said in the book, your best option is to just use FileVault (ie, encrypt your hard drive). People have reported problems with using the `diskutil secureErase freespace` command, getting the error message "erasing freespace only works on mounted and writable volumes". After much researching, the consensus is that you should just encrypt the drive. When you're ready to sell the computer, just delete the accounts and start over. That effectively locks up all the data and throws away the key.
+
+I would just follow Apple's advice [here](https://support.apple.com/en-us/HT208496).
+
 ### Tip 8-4. Send Files Securely Using the Web
 
 Unfortunately, Firefox has [discontinued](https://blog.mozilla.org/blog/2020/09/17/update-on-firefox-send-and-firefox-notes/) it's wonderful, free, secure file sending tool called Firefox Send. I managed to sneak in a note about that into the book before it was published, but I'd like to suggest a couple alternatives here.
