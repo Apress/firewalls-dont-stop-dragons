@@ -47,6 +47,12 @@ Unfortunately, Firefox has [discontinued](https://blog.mozilla.org/blog/2020/09/
 * **[Filemail](https://www.filemail.com/):** Another nice and secure service for sending large files. You can either do it as an email or using a link.
 * **[FileTransfer.io](https://filetransfer.io/):** This is the one I mentioned in the book's footnote. But I prefer Swiss Transfer.
 
+### Tip 9-18. Enable Two-Factor Auth Wherever You Can
+
+Someone apparently took over the old twofactorauth website. The old functionality seems to have moved to this site:
+
+* [2fa.directory](https://2fa.directory/)
+
 ### Tip 9-23. Delete Your Facebook History
 
 You can now manage your history via the web [here](https://www.facebook.com/help/504765303045427/manage-what-you've-shared/).
