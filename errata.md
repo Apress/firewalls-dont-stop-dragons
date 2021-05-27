@@ -18,6 +18,10 @@ should automatically re-route you to the new site.
 
 ## Errata
 
+### Tip 4-1. Choose a Strong Master Password
+
+After I published the 4th edition of the book, I created a fun, fantasy-themed website called [d20key.com](https://d20key.com/) for generating a *passphrase*. A passphrase can be easier to remember than a password, and for a password vault, that's a good thing. You can read about passphrases in my [blog article here](https://firewallsdontstopdragons.com/how-when-to-use-a-passphrase/). 
+
 ### Tip 4-2. Getting Starting with LastPass
 
 LastPass is planning to restrict what sorts of devices you can use on its Free tier as of March 2021. I am not happy about this (and frankly still hoping they might change their minds), even though I'm a paying customer and these changes will have no effect on paying customers. And then it was found that their Android app had several trackers in it. I wrote [a blog article about this](https://firewallsdontstopdragons.com/moving-to-bitwarden/) that you might want to check out. The short version is that my recommendations will likely change going forward. LastPass is still secure and has good features. But I would now recommend one of the following:
@@ -61,5 +65,8 @@ You can now manage your history via the web [here](https://www.facebook.com/help
 
 Warp VPN is [now available for desktop](https://blog.cloudflare.com/warp-for-desktop/), as well.
 
+Tip 12-28. Roll the Dice for Security
+
+After I published the 4th edition of the book, I created a fun, fantasy-themed website called [d20key.com](https://d20key.com/) for generating a passphrase that was based off the work the EFF did with Diceware. Check it out!
 
 
