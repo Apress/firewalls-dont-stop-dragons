@@ -50,6 +50,7 @@ Unfortunately, Firefox has [discontinued](https://blog.mozilla.org/blog/2020/09/
 * **[Swiss Transfer](https://www.swisstransfer.com/en):** I think this service is closer to what Firefox Send was. It allows you to limit the number of downloads, the number of days the link will work, or both. You can also set a password for the link.
 * **[Filemail](https://www.filemail.com/):** Another nice and secure service for sending large files. You can either do it as an email or using a link.
 * **[FileTransfer.io](https://filetransfer.io/):** This is the one I mentioned in the book's footnote. But I prefer Swiss Transfer.
+* **[send.bitwarden.com](https://send.bitwarden.com):** You'll need a BitWarden account to use this. Once you log in, go the the "Send" tab and "Create new send".
 
 ### Tip 9-18. Enable Two-Factor Auth Wherever You Can
 
