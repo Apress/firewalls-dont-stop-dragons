@@ -52,6 +52,11 @@ Unfortunately, Firefox has [discontinued](https://blog.mozilla.org/blog/2020/09/
 * **[FileTransfer.io](https://filetransfer.io/):** This is the one I mentioned in the book's footnote. But I prefer Swiss Transfer.
 * **[send.bitwarden.com](https://send.bitwarden.com):** You'll need a BitWarden account to use this. Once you log in, go the the "Send" tab and "Create new send".
 
+### Tip 9-8. Freeze Your Credit
+
+There's a fourth credit bureau on the block: Innovis. I would freeze your credit there, too. You can use this link:
+[https://www.innovis.com/securityFreeze/index](https://www.innovis.com/securityFreeze/index)
+
 ### Tip 9-18. Enable Two-Factor Auth Wherever You Can
 
 Someone apparently took over the old twofactorauth website. The old functionality seems to have moved to this site:
