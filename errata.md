@@ -43,6 +43,10 @@ Specifically for Tip 5-8b macOS, this is tricky on modern Macs with a solid stat
 
 I would just follow Apple's advice [here](https://support.apple.com/en-us/HT208496).
 
+### Tip 7-5. Install Security and Privacy Add-ons
+
+Note that EFF's wonderful plugin **HTTPS Everywhere** is no longer supported - because it's (thankfully) no longer needed. That is, HTTPS is now used... well, just about everywhere. Also, browsers now have built in the capability to enforce HTTPS where possible. You can read all about it in EFF's article entitled [HTTPS Is Actually Everywhere](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere).
+
 ### Tip 8-4. Send Files Securely Using the Web
 
 Unfortunately, Firefox has [discontinued](https://blog.mozilla.org/blog/2020/09/17/update-on-firefox-send-and-firefox-notes/) it's wonderful, free, secure file sending tool called Firefox Send. I managed to sneak in a note about that into the book before it was published, but I'd like to suggest a couple alternatives here.
