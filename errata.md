@@ -75,6 +75,10 @@ You can now manage your history via the web [here](https://www.facebook.com/help
 
 Warp VPN is [now available for desktop](https://blog.cloudflare.com/warp-for-desktop/), as well.
 
+### Tip 12-16. Use Top-Shelf Security and Privacy Tools
+
+PrivacyTools.io has moved. It's now [PrivacyGuides.org](https://www.privacyguides.org/).
+
 ### Tip 12-28. Roll the Dice for Security
 
 After I published the 4th edition of the book, I created a fun, fantasy-themed website called [d20key.com](https://d20key.com/) for generating a passphrase that was based off the work the EFF did with Diceware. Check it out!
