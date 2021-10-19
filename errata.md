@@ -43,6 +43,10 @@ Specifically for Tip 5-8b macOS, this is tricky on modern Macs with a solid stat
 
 I would just follow Apple's advice [here](https://support.apple.com/en-us/HT208496).
 
+### Tip 7-2. Configure the Security and Privacy Settings on Firefox
+
+It looks like Firefox has standardized on the term "Settings" for both Mac and PC (instead of "Preferences" and "Options", respectively).
+
 ### Tip 7-5. Install Security and Privacy Add-ons
 
 Note that EFF's wonderful plugin **HTTPS Everywhere** is no longer supported - because it's (thankfully) no longer needed. That is, HTTPS is now used... well, just about everywhere. Also, browsers now have built in the capability to enforce HTTPS where possible. You can read all about it in EFF's article entitled [HTTPS Is Actually Everywhere](https://www.eff.org/deeplinks/2021/09/https-actually-everywhere).
