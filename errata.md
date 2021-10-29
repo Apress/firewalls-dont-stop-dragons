@@ -43,6 +43,12 @@ Specifically for Tip 5-8b macOS, this is tricky on modern Macs with a solid stat
 
 I would just follow Apple's advice [here](https://support.apple.com/en-us/HT208496).
 
+### Chapter 7: Summary
+
+There's a typo in the last bullet. It should read:
+
+"While all browsers attempt to be secure, **only** a few are really trying to protect your privacy."
+
 ### Tip 7-2. Configure the Security and Privacy Settings on Firefox
 
 It looks like Firefox has standardized on the term "Settings" for both Mac and PC (instead of "Preferences" and "Options", respectively).
