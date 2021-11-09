@@ -1,5 +1,8 @@
 # Errata for *Firewalls Don't Stop Dragons* (4th ed)
 
+First of all, **congratulations** for actually viewing the errata page! I'm not sure what percentage of readers actually come here, but I'll bet it's pretty small. Anyway, glad you're here! You should bookmark this page in your web browser and check back every so often.
+
+As a little reward for your diligence, I will tell you that the book contains an [easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)). It's nothing life-changing, but there is a hidden message somewhere in the book. You can always email me if you want to know where it is.
 
 ## General Note on Web Links in the Book
 
