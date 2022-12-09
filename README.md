@@ -1,4 +1,8 @@
-# Apress Source Code
+# 5th Edition Coming!!
+
+**Note that the fifth edition of my book will be released very soon! Watch [my book page](https://firewallsdontstopdragons.com/buy-the-book/) for updates!**
+
+# Book Notes
 
 This repository accompanies [*Firewalls Don't Stop Dragons, 4th ed.*](https://www.apress.com/us/book/9781484261880) by Carey Parker (Apress, 2020) as well as the [previous edition](https://www.apress.com/us/book/9781484238523).
 
