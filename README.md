@@ -1,38 +1,49 @@
-# 5th Edition Coming!!
-
-**Note that the fifth edition of my book will be released very soon! Watch [my book page](https://firewallsdontstopdragons.com/buy-the-book/) for updates!**
-
 # Book Notes
 
-This repository accompanies [*Firewalls Don't Stop Dragons, 4th ed.*](https://www.apress.com/us/book/9781484261880) by Carey Parker (Apress, 2020) as well as the [previous edition](https://www.apress.com/us/book/9781484238523).
+This repository accompanies [*Firewalls Don't Stop Dragons (5th edition)*](https://firewallsdontstopdragons.com/buy-the-book/) by Carey Parker (Apress, 2023).
 
-[comment]: #cover
+<img src="9781484290354.png" width=300>
 
-![Cover image](9781484261880.png)
+See below for information related to previous editions.
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
+## Links, Updates & Other Resources
 
-## Errata
+I have a dedicated web page for the book with several helpful links and resources. You should check this site for important updates and errata before implementing any of the Tips. You might want to bookmark the website and check back periodically.
 
-As I find errors or stale information in the book, I will update the [errata document](errata.md). See this reference for updates. If you find an error or information that needs updating, please contact me at **feedback @ wawaseemedia.com**.
+https://firewallsdontstopdragons.com/book-updates/
 
-## Web Links from Book
+Resources on this site:
 
-If you have the paperback version of the book, you can use this web page list to click on the web links. The links are in order by chapter. Futhermore, I will try to keep these links up to date (links inevitably change). If you find any errors, **please** let me know: **feedback @ wawaseemedia.com**. 
-
-#### [List of Web Links](https://firewallsdontstopdragons.com/book-links-v4/)
-
-## Follow Me on Social Media
-
-* [Facebook](https://www.facebook.com/Firewalls-Dont-Stop-Dragons-105005911488731)
-* [YouTube](https://www.youtube.com/channel/UC0aUElaV7hDubXSpDJkiSrA)
-* [Twitter](https://twitter.com/firewalldragons)
-* [LinkedIn](https://www.linkedin.com/in/firewall-dragons)
+* **Links:** If you have the paperback version of the book, you can use this web page list to click on the web links. The links are in order by chapter. Futhermore, I will try to keep these links up to date (links inevitably change). 
+* **Updates & Errata:** If I find any errors in the book or if any recommendations become stale, I'll add notes here. If you find an error or information that needs updating, *please* contact me at **feedback @ wawaseemedia.com**.
 
 
 ## Website and Other Resources
 
-On my website, you can find [my blog](https://firewallsdontstopdragons.com/), [my newsletter](https://firewallsdontstopdragons.com/newsletter/new-newsletter/), [my podcast](https://firewallsdontstopdragons.com/podcast/), and a web page with several other [great resources](https://firewallsdontstopdragons.com/resources/) for privacy and security.
+On my website, you can find :
+
+* [My blog](https://firewallsdontstopdragons.com/)
+* [My newsletter](https://firewallsdontstopdragons.com/newsletter/new-newsletter/)
+* [My podcast](https://firewallsdontstopdragons.com/podcast/)
+* [Contact info](https://firewallsdontstopdragons.com/contact/)
+* [Security & Privacy Resources](https://firewallsdontstopdragons.com/resources/)
+
+
+## Follow Me on Social Media
+
+* [Facebook](https://www.facebook.com/FirewallsDontStopDragons)
+* [YouTube](https://www.youtube.com/c/FirewallsDontStopDragons)
+* [Twitter](https://twitter.com/firewalldragons)
+* [LinkedIn](https://www.linkedin.com/in/firewall-dragons)
+* [Mastodon](https://mastodon.social/@FirewallDragons)
+
+
+## Previous Editions
+
+There are several previous editions of this book:
+
+* [4th edition (2020)](https://link.springer.com/book/10.1007/978-1-4842-6189-7)
+* [3rd edition (2018)](https://link.springer.com/book/10.1007/978-1-4842-3852-3)
 
 ## Releases
 
